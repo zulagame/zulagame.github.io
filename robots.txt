@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+User-agent: ia_archiver
+User-agent: archive.org_bot
+User-agent: IABot
+User-agent: heritrix
+User-agent: Zeno
+User-agent: Archive-It
+User-agent: special_archiver
+User-agent: ArchiveTeam
+Disallow: /
+
+
+Sitemap: https://zulagame.github.io/sitemap.xml
+
+Content-Signal: ai-train=no, search=yes, ai-input=no
